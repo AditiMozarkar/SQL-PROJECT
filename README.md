@@ -3,6 +3,7 @@ Digital Music Store data analysis using SQL
 
 # Database and Tools
 Postgre SQL
+
 PgAdmin4
 
 Created a comprehensive SQL database and analysis project focused on a fictional music store.
